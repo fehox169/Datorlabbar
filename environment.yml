@@ -3,5 +3,5 @@ channels:
   - defaults
 dependencies:
   - numpy
-  - scipy
-  - matplotlib
+  - scipy.integrate
+  - matplotlib.pyplot
